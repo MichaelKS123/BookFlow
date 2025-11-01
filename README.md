@@ -700,10 +700,9 @@ MIT License - Copyright (c) 2025 Michael Semera
 
 **Michael Semera**
 
-- 🌐 Portfolio: [michaelsemera.com](https://michaelsemera.com)
-- 💼 LinkedIn: [linkedin.com/in/michaelsemera](https://linkedin.com/in/michaelsemera)
-- 🐙 GitHub: [@michaelsemera](https://github.com/michaelsemera)
-- 📧 Email: michael.semera@example.com
+- 💼 LinkedIn: [Michael Semera](https://www.linkedin.com/in/michael-semera-586737295/)
+- 🐙 GitHub: [@MichaelKS123](https://github.com/MichaelKS123)
+- 📧 Email: michaelsemera15@gmail.com
 
 ---
 
@@ -718,4 +717,5 @@ MIT License - Copyright (c) 2025 Michael Semera
 **Status**: Production Ready ✅  
 **Database**: MySQL 8.0+  
 **Language**: Java 11+  
+
 **License**: MIT
